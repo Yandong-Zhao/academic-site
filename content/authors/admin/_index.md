@@ -14,12 +14,6 @@ superuser: true
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
 # Education to show in About widget
 education:
   courses:
@@ -29,7 +23,13 @@ education:
   - course: B.A. in Applied Psychology
     institution: Binzhou Medical University
     year: 09/2014-06/2018 
-   
+
+# Interests to show in About widget
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
