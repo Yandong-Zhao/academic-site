@@ -23,21 +23,23 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: R.A. in Artificial Intelligence Aversion
-    institution: Zhejiang University
-    year: 09/2021-present
   - course: M.S. in Basic Psychology
     institution: Hebei University
-    year: 09/2018-06/2021
-  - course: R.A. in Physiological Psychology
+    year: 09/2018-06/2021 
+  - course: B.A. in Applied Psychology
+    institution: Binzhou Medical University
+    year: 09/2014-06/2018
+    
+# Research experience to show in About widget    
+   - course: Research Assistant in Artificial Intelligence Aversion
+    institution: Zhejiang University
+    year: 09/2021-present
+   - course: Research Assistant in Physiological Psychology
     institution: Behavioral Pharmacology Laboratory, Binzhou Medical University
     year: 09/2017-08/2018
   - course: Research Intern in Physiological Psychology
     institution: Institute of Biophysics, Chinese Academy of Sciences
-    year: 06/2016-09/2016  
-  - course: B.A. in Applied Psychology
-    institution: Binzhou Medical University
-    year: 09/2014-06/2018
+    year: 06/2016-09/2016 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
