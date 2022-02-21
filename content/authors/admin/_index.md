@@ -28,9 +28,7 @@ education:
     year: 09/2018-06/2021 
   - course: B.A. in Applied Psychology
     institution: Binzhou Medical University
-    year: 09/2014-06/2018
-    
-# Research experience to show in About widget    
+    year: 09/2014-06/2018 
    - course: Research Assistant in Artificial Intelligence Aversion
     institution: Zhejiang University
     year: 09/2021-present
